@@ -5,17 +5,10 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## Ésta soy yo
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Estudiante de Ingeniería en Sistemas Computacionales, coleccionista de buenos recuerdos y fan #1 del color morado.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+Por el momento me encuentro estudianto la universidad, y buscando oportunidades para crecer más y más como la futura desarrolladora que seré <3 Me encanta la idea de especializarme en UI/UX Design (y por qué no, desarrollo web también) para combinar dos de mis cosas favoritas: la programación y el diseño. También disfruto viajar, tomar fotografías, convivir con mi familia y comer helado, haga frío o calor. <3
