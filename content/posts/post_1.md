@@ -1,5 +1,5 @@
 ---
-title: Reporte de la misión"
+title: Reporte de la misión
 date: 2022-04-11
 description: 'Mi travesía por Launch X @ Innovacción Virtual'
 ---
