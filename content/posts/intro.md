@@ -1,7 +1,9 @@
 ---
-title: "Mis expectativas"
+title: "La cultura en un desarrollador de software."
 date: 2022-02-21T18:16:21-06:00
 description: 'Este es mi primer post de la travesía en la Misión de Backend con Node JS de Launch X.'
 ---
 
-Usa este post para anotar tus expectativas de la misión.
+Estamos más que de acuerdo en que todo buen profesional debe contar con una buena ética, que le permita sobresalir y cultivar buenos logros en el ámbito en que se desempeña. En esta ocasión, quiero enfocarme en los profesionales de software, los cuales parecen multiplicarse exponencialmente en el mundo día tras día, y es qué, cómo no sería así, si vivimos en un periodo en el que la tecnología es el pan de cada día para todos, sin importar el ámbito social en el que nos encontremos.
+Algo que es cierto, es que: no porque la necesidad de soluciones tecnológicas se encuentre en su máximo apogeo, podemos confiarnos y afirmar que tendremos asegurado un puesto de trabajo en una destacada compañía de desarrollo. Simplemente no. 
+Para destacar como un desarrollador de software debemos, por supuesto, dominar las diferentes tecnologías en las que hemos decidido enfocarnos y estar altamente dispuestos a seguir aprendiendo cada vez más; esto para no quedarnos atrás y poder mantener el ritmo con el que las cosas en este sector evolucionan, que créeme: es más veloz de lo que te imaginas. Sin embargo, quiero que vayamos más allá de poder manejar una computadora con alta expertiz. Es probable que en la escuela (o tal vez pro tu propia cuenta) te has formado la idea de que, todo girará en torno a las máquinas si decides tomar el camino de la tecnología, y es aquí donde viene otro gran "no", o al menos, no del todo. Pongámoslo de este modo: del mismo modo en que la tecnología no se ha limitado a ceros y unos, sino que ha sido empleada en millones de formas para ayudar a la sociedad; así nosotros, como desarrolladores, no nos limitemos a escribir unas cuantas líneas de código, esperando que con eso sea suficiente generrar un impacto positivo en el mundo. Por qué limitarnos cuando podemos acompañar nuestras habilidades técnicas de mucha pasión, amor y dedicación por lo que hacemmos y por aquellos a quienes busquemos ayudar con nuestras capacidades. <3
